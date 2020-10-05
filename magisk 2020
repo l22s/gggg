@@ -1,12 +1,12 @@
 {
   "app": {
-    "version": "9.9.7",
+    "version": "8.8.8",
     "versionCode": "2020102201",
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/app-debug.apk",
     "note": ""
   },
   "magisk": {
-    "version": "29.5",
+    "version": "39.5",
     "versionCode": "2020",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.0/Magisk-v21.0.zip",
     "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
